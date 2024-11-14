@@ -1,0 +1,4 @@
+[
+  { "orderQty": 666, "cuttingQty": 666, "readToLoad": 666, "finalPacking": 0, "packingMD": 786 },
+  { "orderQty": "name", "cuttingQty": 1619, "readToLoad": 1619, "finalPacking": 0, "packingMD": 1535 }
+]
